@@ -31,11 +31,16 @@ To provide a clear, interactive, and actionable view of road accident trends, he
 - <a href ="https://github.com/anuyadav7102-collab/Road-Accident-Insights-Using-Excel/blob/my-new-branch/Dashboard/Analysis%20Of%20Table.png">Data Analysis</a>
 # Proccess
 Cleaned the accident dataset by removing duplicates, fixing missing values, and standardizing categories to ensure accurate KPI calculation
+<br>
 Prepared the data by creating fields like Total Casualties, Month, and Day/Night, and grouping it by vehicle type, road type, and severity for dashboard use.
+<br>
 Analyzed total casualties, severity distribution, vehicle-type impact, monthly CY vs PY trends, and day/night accident patterns as per project requirements
+<br>
 Visualized insights using an interactive Excel dashboard with KPIs, bar charts, donut charts, and trend lines based on the provided requirements.
 # Project Insight 
 Slight and Serious injuries formed the majority, while Fatal casualties were comparatively lower but still significant.
+<br>
 Day vs Night comparison revealed that most accidents occurred during the daytime, but night-time accidents had relatively higher severity.
+<br>
 Current Year (CY) vs Previous Year (PY) comparison highlighted noticeable changes in accident patterns, helping track improvement or worsening conditions.
-<a href="
+<a href="https://github.com/anuyadav7102-collab/Road-Accident-Insights-Using-Excel/blob/my-new-branch/Dashboard/Dashboard%20Screenshort.png">Dashboarf</a>
