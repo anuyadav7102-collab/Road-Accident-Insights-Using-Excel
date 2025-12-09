@@ -13,14 +13,17 @@ Maximum Casualties by Vehicle Type to identify the most affected category.
 Casualties by Vehicle Type (e.g., two-wheelers, cars, trucks, buses, etc.).
 Casualties by Road Type (Highway, Urban Roads, Rural Roads, etc.).
 Distribution of Casualties by Road Surface (Dry, Wet, Snowy, etc.).
+<br>
 📊 Trend Analysis
 <br>
 Monthly trend comparison of casualties for Current Year (CY) vs. Previous Year (PY).
 Accident frequency pattern by Day vs. Night.
+<br>
 📍 Location & Relation Insights
 <br>
 Relationship between casualties by area/location (zones, regions, cities).
 Impact of road and environmental conditions on total casualties.
+<br>
 ✔️ Purpose of the Dashboard
 <br>
 To provide a clear, interactive, and actionable view of road accident trends, helping stakeholders identify high-risk categories, understand causes, and support data-driven decision-making for improving road safety.
