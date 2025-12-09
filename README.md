@@ -3,21 +3,26 @@ This project focuses on analyzing road accident data for the years 2021 and 2022
 - <a href="https://github.com/anuyadav7102-collab/Road-Accident-Insights-Using-Excel/blob/my-new-branch/Dashboard/Road%20Accident%20Data.xlsx">Dataset</a>
 # Question (KPIS)
 🔶 Primary KPIs
+<br>
 Total Casualties recorded across all accident categories.
 Casualty Breakdown by Severity (Fatal, Serious, Slight) with percentage contribution.
 Maximum Casualties by Vehicle Type to identify the most affected category.
 <br>
 🔷 Secondary KPIs
+<br>
 Casualties by Vehicle Type (e.g., two-wheelers, cars, trucks, buses, etc.).
 Casualties by Road Type (Highway, Urban Roads, Rural Roads, etc.).
 Distribution of Casualties by Road Surface (Dry, Wet, Snowy, etc.).
 📊 Trend Analysis
+<br>
 Monthly trend comparison of casualties for Current Year (CY) vs. Previous Year (PY).
 Accident frequency pattern by Day vs. Night.
 📍 Location & Relation Insights
+<br>
 Relationship between casualties by area/location (zones, regions, cities).
 Impact of road and environmental conditions on total casualties.
 ✔️ Purpose of the Dashboard
+<br>
 To provide a clear, interactive, and actionable view of road accident trends, helping stakeholders identify high-risk categories, understand causes, and support data-driven decision-making for improving road safety.
 
 - <a href ="https://github.com/anuyadav7102-collab/Road-Accident-Insights-Using-Excel/blob/my-new-branch/Dashboard/Analysis%20Of%20Table.png">Data Analysis</a>
