@@ -30,7 +30,7 @@ To provide a clear, interactive, and actionable view of road accident trends, he
 
 - <a href ="https://github.com/anuyadav7102-collab/Road-Accident-Insights-Using-Excel/blob/my-new-branch/Dashboard/Analysis%20Of%20Table.png">Data Analysis</a>
 # Proccess
-Cleaned the accident dataset by removing duplicates, fixing missing values, and standardizing categories to ensure accurate KPI calculation
+Cleaned the accident dataset by removing duplicates, fixing missing values, and standardizing categories to ensure accurate KPI calculation.
 <br>
 Prepared the data by creating fields like Total Casualties, Month, and Day/Night, and grouping it by vehicle type, road type, and severity for dashboard use.
 <br>
