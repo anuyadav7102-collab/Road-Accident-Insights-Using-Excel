@@ -6,6 +6,7 @@ This project focuses on analyzing road accident data for the years 2021 and 2022
 Total Casualties recorded across all accident categories.
 Casualty Breakdown by Severity (Fatal, Serious, Slight) with percentage contribution.
 Maximum Casualties by Vehicle Type to identify the most affected category.
+<br>
 🔷 Secondary KPIs
 Casualties by Vehicle Type (e.g., two-wheelers, cars, trucks, buses, etc.).
 Casualties by Road Type (Highway, Urban Roads, Rural Roads, etc.).
