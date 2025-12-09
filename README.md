@@ -34,7 +34,7 @@ Cleaned the accident dataset by removing duplicates, fixing missing values, and 
 <br>
 Prepared the data by creating fields like Total Casualties, Month, and Day/Night, and grouping it by vehicle type, road type, and severity for dashboard use.
 <br>
-Analyzed total casualties, severity distribution, vehicle-type impact, monthly CY vs PY trends, and day/night accident patterns as per project requirements
+Analyzed total casualties, severity distribution, vehicle-type impact, monthly CY vs PY trends, and day/night accident patterns as per project requirements.
 <br>
 Visualized insights using an interactive Excel dashboard with KPIs, bar charts, donut charts, and trend lines based on the provided requirements.
 # Project Insight 
@@ -43,4 +43,7 @@ Slight and Serious injuries formed the majority, while Fatal casualties were com
 Day vs Night comparison revealed that most accidents occurred during the daytime, but night-time accidents had relatively higher severity.
 <br>
 Current Year (CY) vs Previous Year (PY) comparison highlighted noticeable changes in accident patterns, helping track improvement or worsening conditions.
-<a href="https://github.com/anuyadav7102-collab/Road-Accident-Insights-Using-Excel/blob/my-new-branch/Dashboard/Dashboard%20Screenshort.png">Dashboarf</a>
+<br>
+<a href="https://github.com/anuyadav7102-collab/Road-Accident-Insights-Using-Excel/blob/my-new-branch/Dashboard/Dashboard%20Screenshort.png">Dashboard</a>
+# Conclusion
+This project successfully transformed raw accident data from 2021–2022 into a meaningful and interactive Excel dashboard that highlights key accident trends, severity levels, vehicle involvement, and high-risk areas. The analysis provides clear visibility into the factors contributing to accidents—such as vehicle types, road conditions, and time of day—helping stakeholders identify critical problem areas. Overall, the dashboard offers valuable, data-driven insights to support better road-safety planning, awareness, and preventive measures.
